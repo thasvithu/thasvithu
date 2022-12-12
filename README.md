@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vimalathas_vithusan
-- 👀 I’m interested in Software development, web development, Game development and building Algorithms.
+- 👀 I’m interested in Software development, web development, Game development and Developing algorithms.
 - 🌱 Currently an undergraduate at University of Vavuniya in Bachelor of Information Communication Technology.
 
 
