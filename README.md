@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/vithusan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vithusan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thasvithu7&show_icons=true&locale=en&layout=compact" alt="thasvithu7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thasvithu7&show_icons=true&locale=en&layout=compact" alt="thasvithu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thasvithu7&show_icons=true&locale=en" alt="thasvithu7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thasvithu&show_icons=true&locale=en" alt="thasvithu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thasvithu7&" alt="thasvithu7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thasvithu&" alt="thasvithu" /></p>
