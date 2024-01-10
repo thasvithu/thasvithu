@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thasvithu7&label=Profile%20views&color=0e75b6&style=flat" alt="thasvithu7" /> </p>
 
-- 🌱 I’m currently learning **JAVA Programming**
+- 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://medium.com/@vimalathasvithusan](https://medium.com/@vimalathasvithusan)
 
-- 💬 Ask me about **HTML5, CSS, C, C++**
+- 💬 Ask me about **HTML5, CSS, C, C++, Java, Python**
 
 - 📫 How to reach me **thasvithu7@gmail.com**
 
