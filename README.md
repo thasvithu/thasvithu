@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hello 👋, Iam Vimalathas Vithusan
-## An enthusiast Data Scientist
+# <center>Hello 👋, Iam Vimalathas Vithusan<br>An enthusiast Data Scientist</center>
 🌱 I’m currently learning Ai and Data Science<br><br>📝 I regularly write articles on https://medium.com/@vimalathasvithusan<br><br>💬 Ask me about the latest breakthroughs in AI, tips for diving into data science, or anything tech-related!<br><br>📫 How to reach me thasvithu7@gmail.com<br><br>⚡ Fun fact I can learn all programming languages in one day.
 
 
