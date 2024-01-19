@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hello 👋, I am Vimalathas Vithusan</h1>
 <h3 align="center">An Enthusiastic Data Scientist👨‍💻</h3>
 
