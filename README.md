@@ -12,6 +12,7 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@vimalathasvithusan)
 - ⚡ Fun fact **I can learn all programming languages in one day.**
 
+  <br/>
   <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thasvithu&theme=default" alt="thasvithu" />
