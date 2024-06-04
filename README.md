@@ -5,17 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=thasvithu&label=Profile%20views&color=0e75b6&style=flat" alt="thasvithu" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thasvithu&theme=default" alt="thasvithu" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning **AI and Data Science**
 - 💬 Ask me about **the latest breakthroughs in AI, tips for diving into data science, or anything tech-related!**
 - 📫 How to reach me **thasvithu7@gmail.com**
 - 📝 I regularly write articles on [Medium](https://medium.com/@vimalathasvithusan)
 - ⚡ Fun fact **I can learn all programming languages in one day.**
+
+  <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thasvithu&theme=default" alt="thasvithu" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
