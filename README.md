@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Vimalathas Vithusan</h1>
-<p align="center">🤖 Data Science & AI Enthusiast | Python & ML | Backend Developer | AI Project Builder</p>
+<p align="center">🤖 AI/DS | ML | Backend Developer | Cloud & GenAI Enthusiast</p>
 
 ---
 
@@ -26,20 +26,23 @@
 
 ### 👨‍💻 About Me
 
-I’m **Vimalathas Vithusan**, a passionate **Data Science & AI professional** from Sri Lanka 🇱🇰.  
-I transform **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.
+I’m **Vimalathas Vithusan**, a final-year **BICT (Hons) student** specializing in **AI, Machine Learning, and GenAI** from Sri Lanka 🇱🇰.  
 
-- 🔭 **Currently Working On:** AI-driven Backend Systems & Automation at Sparta Capital  
-- 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
-- 👯 **Open to Collaborate On:** AI-powered applications, ML projects, and intelligent backend systems  
-- 🤝 **Looking for Help With:** Designing scalable AI projects, MLOps pipelines, and RAG-based AI solutions  
-- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI Projects 🛠️  
-- 👨‍💻 **Projects:** [Portfolio](https://thasvithu.github.io)  
+I transform **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.  
+With hands-on experience in ML pipelines, RAG-based chatbots, and scalable backend systems, I am passionate about creating **production-ready AI solutions** to improve efficiency, reliability, and user experience.  
+
+- 🎓 **Education:** BICT (Hons), University of Jaffna | GPA: 3.5/4.0 | Expected 2026  
+- 🔭 **Current Role:** Backend Developer at **Sparta Capital** – developing AI-driven backend systems, GenAI applications, and scalable APIs  
+- 🌱 **Learning:** Advanced ML 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
+- 👯 **Open to Collaborate On:** AI applications, ML projects, and intelligent backend systems  
+- 🤝 **Looking for Help With:** Scalable AI design, MLOps pipelines, and RAG-based AI solutions  
+- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, GenAI & AI Projects 🛠️  
+- 👨‍💻 **Portfolio:** [thasvithu.github.io](https://thasvithu.github.io)  
 - 📝 **Articles:** [Medium](https://medium.com/@thasvithu)  
-- 📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
+- 📄 **Experience & Resume:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
 - 📫 **Contact:** thasvithu7@gmail.com  
 
-⚡ Fun fact: I enjoy simplifying complex data into actionable insights 📊  
+⚡ Fun Fact: I enjoy turning **complex data into simple insights** 📊  
 📌 *“Learn continuously, build intelligently, grow consistently.”*
 
 ---
@@ -47,19 +50,7 @@ I transform **data into actionable insights** 📊 and build **intelligent AI pr
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,html,css,javascript,typescript,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,opencv,mlflow,streamlit,supabase,postgres,redis,mysql,vector,langchain,openai,gemini" height="40" />
 </div>
 
 ---
@@ -81,6 +72,25 @@ I transform **data into actionable insights** 📊 and build **intelligent AI pr
 
 ---
 
-### 💡 Fun Fact
+### 🏆 Projects & Achievements
 
-I enjoy **turning complex data into simple insights** 📊 and building **scalable AI solutions** that make a difference.
+- **A-RAG-Powered FAQ Bot for Government Services** – Retrieval-Augmented Generation chatbot with LangChain, vector search, and LLM APIs (~40% faster response).  
+- **ATS Resume Analyzer** – Resume evaluation with Google Gemini & Streamlit.  
+- **End-to-End ML Pipeline with Cloud Deployment** – Full-stack ML app with FastAPI, Next.js, CI/CD pipelines, achieving 80% accuracy in Titanic survival prediction.  
+
+---
+
+### 🎓 Certifications
+
+- **Agentic AI System Design for PMs** – Maven | Nov 2025  
+- **Complete Data Science, ML, DL & NLP Bootcamp** – Udemy | Mar 2025  
+- **Data Science Foundation Professional Certificate** – IBM | Dec 2023  
+- **Machine Learning with Python: A Practical Introduction** – IBM | Dec 2023  
+
+---
+
+### 🌱 Extracurricular Activities
+
+- Volunteer, **Yarl IT Hub** | Jan 2025 – Present  
+- Member, **Student Union** | Jan 2023 – Jan 2024  
+- Member, **IEEE Student Branch** | Feb 2023 – Feb 2024
