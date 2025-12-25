@@ -1,42 +1,50 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###  
+<h1 align="center">Hi there! 👋 I'm Vimalathas Vithusan</h1>
+<p align="center">🤖📊 Data Science & AI Enthusiast | Python & ML | Backend Developer | AI Project Builder</p>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thasvithu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://medium.com/@thasvithu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" />
+  </a>
+  <a href="https://thasvithu.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlesite&logoColor=white" height="25" />
+  </a>
+  <a href="mailto:thasvithu7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
 
-###  
+---
 
-<h3 align="left">👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
-Hi! 👋 I’m **Vimalathas Vithusan**, a Data Science & AI enthusiast from Sri Lanka 🇱🇰.  
+Hi! I’m **Vimalathas Vithusan**, a Data Science & AI enthusiast from Sri Lanka 🇱🇰.  
 I love turning data into insights 📊 and building intelligent AI projects 🤖.
 
-🔭 **Currently working on:** AI-driven Backend Systems & Automation at Sparta Capital  
-🌱 **Learning:** Advanced ML 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
-👯 **Collaborating on:** AI-powered applications, ML projects, and intelligent backend systems  
-🤝 **Looking for help with:** Scalable AI project design, MLOps pipelines, RAG-based AI solutions  
-💬 **Ask me about:** Python 🐍, ML 🤖, Data Science 📊, Backend Development 💻, AI projects 🛠️  
-
-👨‍💻 **Projects:** [Portfolio](https://thasvithu.github.io)  
-📝 **Articles:** [Medium](https://medium.com/@thasvithu)  
-📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
-📫 **Contact:** thasvithu7@gmail.com  
+- 🔭 **Current Work:** AI-driven Backend Systems & Automation at Sparta Capital  
+- 🌱 **Learning:** Advanced ML 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
+- 👯 **Collaboration:** AI-powered applications, ML projects, and intelligent backend systems  
+- 🤝 **Looking for Help With:** Scalable AI project design, MLOps pipelines, RAG-based AI solutions  
+- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI projects 🛠️  
+- 👨‍💻 **Projects:** [Portfolio](https://thasvithu.github.io)  
+- 📝 **Articles:** [Medium](https://medium.com/@thasvithu)  
+- 📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
+- 📫 **Contact:** thasvithu7@gmail.com  
 
 ⚡ Fun fact: I enjoy turning complex data into simple insights 📊  
 📌 *“Learn continuously, build intelligently, and grow consistently.”*
 
-###  
+---
 
-<h3 align="left">🛠 Language & Tools</h3>
+### 🛠 Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -53,3 +61,27 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thasvithu&show_icons=true&theme=react" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thasvithu&theme=react" height="180" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thasvithu&theme=react&area=true" height="200" />
+</p>
+
+---
+
+### 💡 Fun Fact
+
+I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.  
+
