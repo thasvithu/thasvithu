@@ -55,59 +55,15 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 <div align="center">
   <!-- Row 1 -->
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=python" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=sql" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=javascript" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=typescript" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=pandas" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=numpy" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=scikit" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=matplotlib" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript,pandas,numpy,scikit" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=matplotlib,seaborn,opencv,mlflow,flask,fastapi,django" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=streamlit,html,css,react,nextjs,tailwind" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github" height="80" /></span>
 </div>
-
 <div align="center">
   <!-- Row 2 -->
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=seaborn" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=opencv" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=mlflow" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=flask" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=fastapi" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=django" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=streamlit" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=html" height="80" /></span>
-</div>
-
-<div align="center">
-  <!-- Row 3 -->
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=css" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=react" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=nextjs" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=tailwind" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=aws" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=gcp" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=azure" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=docker" height="80" /></span>
-</div>
-
-<div align="center">
-  <!-- Row 4 -->
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=kubernetes" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=git" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=github" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=vscode" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=figma" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=postgres" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=redis" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=mysql" height="80" /></span>
-</div>
-
-<div align="center">
-  <!-- Row 5 -->
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=vector" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=langchain" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=openai" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=gemini" height="80" /></span>
-  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=supabase" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=vscode,figma,postgres,redis,mysql,vector,langchain" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=openai,gemini,supabase" height="80" /></span>
 </div>
 
 ---
