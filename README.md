@@ -47,7 +47,18 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,html,css,javascript,typescript,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,opencv,mlflow,streamlit,supabase,postgres,redis,mysql,vector,langchain,openai,gemini" height="60" style="margin:5px;" />
+  <!-- Programming & ML -->
+  <img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript" height="90" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,matplotlib,seaborn,opencv,mlflow" height="90" style="margin:10px;" />
+  
+  <!-- Web & Backend -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flask,fastapi,django,streamlit" height="90" style="margin:10px;" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,vscode,figma" height="90" style="margin:10px;" />
+  
+  <!-- Databases & AI Tools -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,vector,langchain,openai,gemini,supabase" height="90" style="margin:10px;" />
 </div>
 
 ---
@@ -69,6 +80,14 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 ---
 
+### 👀 Profile Visitors
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thasvithu.thasvithu" />
+</div>
+
+---
+
 ### 💡 Fun Fact
 
-I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.
+I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.  
