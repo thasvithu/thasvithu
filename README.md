@@ -54,15 +54,16 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <!-- Programming & ML -->
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=python" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=sql" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=javascript,typescript" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,matplotlib,seaborn,opencv,mlflow" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=flask,fastapi,django,streamlit" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,vscode,figma" height="80" /></span>
-  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,vector,langchain,openai,gemini,supabase" height="80" /></span>
+  <!-- Row 1 -->
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript,pandas,numpy,scikit" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=matplotlib,seaborn,opencv,mlflow,flask,fastapi,django" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=streamlit,html,css,react,nextjs,tailwind" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github" height="80" /></span>
+</div>
+<div align="center">
+  <!-- Row 2 -->
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=vscode,figma,postgres,redis,mysql,vector,langchain" height="80" /></span>
+  <span style="display:inline-block;margin:12px;"><img src="https://skillicons.dev/icons?i=openai,gemini,supabase" height="80" /></span>
 </div>
 
 ---
