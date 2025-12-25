@@ -46,20 +46,8 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 ### 🛠 Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,html,css,javascript,typescript,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,opencv,mlflow,streamlit,supabase,postgres,redis,mysql,vector,langchain,openai,gemini" height="40" />
 </div>
 
 ---
@@ -83,4 +71,4 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 ### 💡 Fun Fact
 
-I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.  
+I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.
