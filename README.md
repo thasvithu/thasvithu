@@ -26,44 +26,37 @@
 
 ### 👨‍💻 About Me
 
-I’m **Vimalathas Vithusan**, a passionate **Data Science & AI professional** from Sri Lanka 🇱🇰.  
-I turn **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.
+Hi there! 👋 I’m **Vimalathas Vithusan**, a passionate **Data Science & AI enthusiast** from Sri Lanka 🇱🇰.  
 
-- 🔭 **Currently Working On:** AI-driven Backend Systems & Automation at Sparta Capital  
-- 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
-- 👯 **Open to Collaborate On:** AI-powered applications, ML projects, and intelligent backend systems  
-- 🤝 **Looking for Help With:** Designing scalable AI projects, MLOps pipelines, and RAG-based AI solutions  
-- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI Projects 🛠️  
-- 👨‍💻 **Projects:** [Portfolio](https://thasvithu.github.io)  
+I love turning **complex data into actionable insights** 📊 and building **intelligent AI projects** 🤖 that solve real-world problems.  
+
+- 🎓 Currently pursuing a **BICT (Hons) degree**, gaining hands-on experience in Machine Learning, Backend Development, and AI-powered applications.  
+- 🔭 **Working On:** AI-driven Backend Systems & Automation at **Sparta Capital**.  
+- 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡.  
+- 👯 **Open to Collaborate:** AI-powered applications, Machine Learning projects, and intelligent backend systems.  
+- 🤝 **Looking for Help With:** Designing scalable AI projects, MLOps pipelines, and RAG-based AI solutions.  
+- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI projects 🛠️.  
+- 👨‍💻 **Portfolio:** [thasvithu.github.io](https://thasvithu.github.io)  
 - 📝 **Articles:** [Medium](https://medium.com/@thasvithu)  
 - 📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
 - 📫 **Contact:** thasvithu7@gmail.com  
-
-⚡ Fun fact: I enjoy simplifying complex data into actionable insights 📊  
-📌 *“Learn continuously, build intelligently, grow consistently.”*
+- ⚡ **Fun Fact:** I enjoy **turning complex data into simple insights** 📊  
+- 📌 *“Learn continuously, build intelligently, and grow consistently.”*
 
 ---
 
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,flask,django,javascript,react,html,css,github,docker,aws,azure,gcp,fastapi,vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,sql,postgres,redis,mysql,aws,gcp,azure,docker,kubernetes,git,github,html,css,javascript,typescript,react,nextjs,tailwind,figma,vscode,ubuntu,vercel,tensorflow,pytorch,opencv,mlflow,supabase" height="40" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 👁️ Profile Visitors
 
 <div align="center">
-  <a href="https://thasvithu.github.io/learnvista" target="_blank">
-    <img src="https://img.shields.io/badge/LearnVista-VLE_WebApp-blue?style=for-the-badge" height="28" />
-  </a>
-  <a href="https://github.com/thasvithu/fake-news-classifier" target="_blank">
-    <img src="https://img.shields.io/badge/FakeNewsClassifier-NLP-orange?style=for-the-badge" height="28" />
-  </a>
-  <a href="https://github.com/thasvithu/console-pastpapers" target="_blank">
-    <img src="https://img.shields.io/badge/ConsolePastPaperApp-Java-green?style=for-the-badge" height="28" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thasvithu.thasvithu" alt="Profile Visitor Count" />
 </div>
 
 ---
@@ -82,9 +75,3 @@ I turn **data into actionable insights** 📊 and build **intelligent AI project
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thasvithu&theme=react&area=true" height="200" />
 </p>
-
----
-
-### 💡 Fun Fact
-
-I enjoy **turning complex data into simple insights** 📊 and building **scalable AI solutions** that make a difference.
