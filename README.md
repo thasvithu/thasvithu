@@ -47,7 +47,7 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,html,css,javascript,typescript,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,opencv,mlflow,streamlit,supabase,postgres,redis,mysql,vector,langchain,openai,gemini" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,html,css,javascript,typescript,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,figma,opencv,mlflow,streamlit,supabase,postgres,redis,mysql,vector,langchain,openai,gemini" height="60" style="margin:5px;" />
 </div>
 
 ---
