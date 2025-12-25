@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me
 
 I’m **Vimalathas Vithusan**, a passionate **Data Science & AI professional** from Sri Lanka 🇱🇰.  
-I transform **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.
+I turn **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.
 
 - 🔭 **Currently Working On:** AI-driven Backend Systems & Automation at Sparta Capital  
 - 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
@@ -47,19 +47,23 @@ I transform **data into actionable insights** 📊 and build **intelligent AI pr
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,flask,django,javascript,react,html,css,github,docker,aws,azure,gcp,fastapi,vercel" height="40" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://thasvithu.github.io/learnvista" target="_blank">
+    <img src="https://img.shields.io/badge/LearnVista-VLE_WebApp-blue?style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/thasvithu/fake-news-classifier" target="_blank">
+    <img src="https://img.shields.io/badge/FakeNewsClassifier-NLP-orange?style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/thasvithu/console-pastpapers" target="_blank">
+    <img src="https://img.shields.io/badge/ConsolePastPaperApp-Java-green?style=for-the-badge" height="28" />
+  </a>
 </div>
 
 ---
