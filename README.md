@@ -26,37 +26,40 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I’m **Vimalathas Vithusan**, a passionate **Data Science & AI enthusiast** from Sri Lanka 🇱🇰.  
+I’m **Vimalathas Vithusan**, a passionate **Data Science & AI professional** from Sri Lanka 🇱🇰.  
+I transform **data into actionable insights** 📊 and build **intelligent AI projects** 🤖 that solve real-world problems.
 
-I love turning **complex data into actionable insights** 📊 and building **intelligent AI projects** 🤖 that solve real-world problems.  
-
-- 🎓 Currently pursuing a **BICT (Hons) degree**, gaining hands-on experience in Machine Learning, Backend Development, and AI-powered applications.  
-- 🔭 **Working On:** AI-driven Backend Systems & Automation at **Sparta Capital**.  
-- 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡.  
-- 👯 **Open to Collaborate:** AI-powered applications, Machine Learning projects, and intelligent backend systems.  
-- 🤝 **Looking for Help With:** Designing scalable AI projects, MLOps pipelines, and RAG-based AI solutions.  
-- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI projects 🛠️.  
-- 👨‍💻 **Portfolio:** [thasvithu.github.io](https://thasvithu.github.io)  
+- 🔭 **Currently Working On:** AI-driven Backend Systems & Automation at Sparta Capital  
+- 🌱 **Learning:** Advanced Machine Learning 🧠, Deep Learning 🤖, NLP 📚, AI Agents 🛠️, RAG 🔍, MCP 🧩, Production-level MLOps ⚡  
+- 👯 **Open to Collaborate On:** AI-powered applications, ML projects, and intelligent backend systems  
+- 🤝 **Looking for Help With:** Designing scalable AI projects, MLOps pipelines, and RAG-based AI solutions  
+- 💬 **Ask Me About:** Python 🐍, Machine Learning 🤖, Data Science 📊, Backend Development 💻, AI Projects 🛠️  
+- 👨‍💻 **Projects:** [Portfolio](https://thasvithu.github.io)  
 - 📝 **Articles:** [Medium](https://medium.com/@thasvithu)  
 - 📄 **Experience:** [LinkedIn](https://www.linkedin.com/in/thasvithu)  
 - 📫 **Contact:** thasvithu7@gmail.com  
-- ⚡ **Fun Fact:** I enjoy **turning complex data into simple insights** 📊  
-- 📌 *“Learn continuously, build intelligently, and grow consistently.”*
+
+⚡ Fun fact: I enjoy simplifying complex data into actionable insights 📊  
+📌 *“Learn continuously, build intelligently, grow consistently.”*
 
 ---
 
 ### 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,flask,fastapi,django,sql,postgres,redis,mysql,aws,gcp,azure,docker,kubernetes,git,github,html,css,javascript,typescript,react,nextjs,tailwind,figma,vscode,ubuntu,vercel,tensorflow,pytorch,opencv,mlflow,supabase" height="40" />
-</div>
-
----
-
-### 👁️ Profile Visitors
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thasvithu.thasvithu" alt="Profile Visitor Count" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
 </div>
 
 ---
@@ -75,3 +78,9 @@ I love turning **complex data into actionable insights** 📊 and building **int
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thasvithu&theme=react&area=true" height="200" />
 </p>
+
+---
+
+### 💡 Fun Fact
+
+I enjoy **turning complex data into simple insights** 📊 and building **scalable AI solutions** that make a difference.
