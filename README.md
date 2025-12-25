@@ -70,7 +70,6 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thasvithu&show_icons=true&theme=react" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thasvithu&theme=react" height="180" />
 </div>
 
