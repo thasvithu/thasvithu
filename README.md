@@ -24,6 +24,13 @@
 
 ---
 
+### 👀 Profile Visitors
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thasvithu.thasvithu" />
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 Hi! I’m **Vimalathas Vithusan**, a Data Science & AI enthusiast from Sri Lanka 🇱🇰.  
@@ -48,17 +55,14 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 <div align="center">
   <!-- Programming & ML -->
-  <img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript" height="90" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,matplotlib,seaborn,opencv,mlflow" height="90" style="margin:10px;" />
-  
-  <!-- Web & Backend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flask,fastapi,django,streamlit" height="90" style="margin:10px;" />
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,vscode,figma" height="90" style="margin:10px;" />
-  
-  <!-- Databases & AI Tools -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,vector,langchain,openai,gemini,supabase" height="90" style="margin:10px;" />
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=python" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=sql" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=javascript,typescript" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,matplotlib,seaborn,opencv,mlflow" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=flask,fastapi,django,streamlit" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,vscode,figma" height="80" /></span>
+  <span style="display:inline-block;margin:10px;"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,vector,langchain,openai,gemini,supabase" height="80" /></span>
 </div>
 
 ---
@@ -80,14 +84,6 @@ I love turning data into insights 📊 and building intelligent AI projects 🤖
 
 ---
 
-### 👀 Profile Visitors
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thasvithu.thasvithu" />
-</div>
-
----
-
 ### 💡 Fun Fact
 
-I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.  
+I enjoy turning complex data into simple insights 📊 and building scalable AI solutions.
