@@ -34,11 +34,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Vimalathas Vithusan**, a Data Science & AI enthusiast from Sri Lanka 🇱🇰.  
-I specialize in transforming raw data into actionable insights and building intelligent, scalable AI systems.
+Hi, I’m **Vimalathas Vithusan**, a **Data Science & AI enthusiast** from Sri Lanka 🇱🇰.  
+I specialize in building **production-ready AI systems**, **ML pipelines**, and **scalable backend services** that turn data into real business value.
 
-- 🔭 **Current Work:** AI-driven Backend Systems & Automation at Sparta Capital  
-- 🌱 **Learning:** Advanced Machine Learning, Deep Learning, NLP, AI Agents, RAG, MCP, Production-grade MLOps  
+- 🔭 **Current Work:** AI-driven Backend Systems & Automation at *Sparta Capital*  
+- 🌱 **Learning:** Advanced ML, Deep Learning, NLP, AI Agents, RAG, MCP, Production-grade MLOps  
 - 👯 **Collaboration:** AI products, ML pipelines, intelligent backend platforms  
 - 🤝 **Interested In:** Scalable AI architectures, RAG systems, MLOps workflows  
 - 💬 **Ask Me About:** Python, Machine Learning, Data Science, Backend Development, AI system design  
@@ -53,19 +53,29 @@ I specialize in transforming raw data into actionable insights and building inte
 
 ## 🛠 Languages & Tools
 
-### Core Stack
+### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript,pandas,numpy,scikit&perline=7" height="80" />
+  <img src="https://skillicons.dev/icons?i=python,sql,js,ts&perline=8" height="65" />
 </p>
 
-### Frameworks, Cloud & AI
+### 📊 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,streamlit,react,nextjs,tailwind,aws,gcp,azure,docker,kubernetes&perline=11" height="80" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,matplotlib,seaborn,opencv&perline=8" height="65" />
 </p>
 
-### Databases, DevOps & AI Tooling
+### ⚙️ Backend, APIs & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,git,github,vscode,figma&perline=8" height="80" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,streamlit,react,nextjs,html,css,tailwind&perline=9" height="65" />
+</p>
+
+### ☁️ Cloud, DevOps & MLOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&perline=8" height="65" />
+</p>
+
+### 🗄 Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&perline=8" height="65" />
 </p>
 
 ---
@@ -101,4 +111,4 @@ I specialize in transforming raw data into actionable insights and building inte
 
 ## 💡 Fun Fact
 
-I enjoy simplifying complex data problems and building AI solutions that scale in real-world environments.
+I enjoy simplifying complex data problems and building AI solutions that scale reliably in real-world environments.
