@@ -54,31 +54,30 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
 
 ## 🛠 Languages & Tools
 
-### 🧑‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=light,dark" height="65" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,pytorch,tensorflow,opencv&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,opencv&theme=light,dark" height="65" />
 </p>
 
 ### ⚙️ Backend, APIs & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,streamlit,react,nextjs,html,css,tailwind&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,html,css,tailwind&theme=light,dark" height="65" />
 </p>
 
 ### ☁️ Cloud, DevOps & MLOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&theme=light,dark" height="65" />
 </p>
 
 ### 🗄 Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&theme=light,dark" height="65" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
