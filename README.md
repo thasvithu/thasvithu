@@ -72,6 +72,7 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/OpenCV_Logo.svg" alt="opencv" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B0B" alt="streamlit" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
 </p>
 
 ### ⚙️ Backend, APIs & Web
@@ -84,7 +85,6 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud, DevOps & MLOps
@@ -96,10 +96,9 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
 </p>
 
-### 🗄 Databases & Tools
+### 🗄 Databases & AI Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -110,6 +109,7 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
 
 
 ---
