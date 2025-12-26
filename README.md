@@ -56,33 +56,33 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
 
 ### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" height="65" style="margin:5px;" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,opencv&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,pytorch,tensorflow,opencv,matplotlib,seaborn" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B0B" height="65" style="margin:5px;" />
 </p>
 
-### ⚙️ Backend, APIs & Web Frameworks
+### ⚙️ Backend, APIs & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,html,css,tailwind&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,html,css,tailwind" height="65" style="margin:5px;" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud, DevOps & MLOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&theme=dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,vscode" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/mlflow/000000" height="65" style="margin:5px;" />
 </p>
 
-### 🗄 Databases & UX Tools
+### 🗄 Databases & AI Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&theme=dark" height="65" />
-</p>
-
-### 🧪 Additional Tech (Fallback Badges)
-<p align="center">
-  <!-- Streamlit doesn’t have a dedicated icon in skill-icons, so use a badge -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B0B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,figma" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/langchain/00FF91" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/gemini/1D1D1D" height="65" style="margin:5px;" />
+  <img src="https://cdn.simpleicons.org/vector/00BFFF" height="65" style="margin:5px;" />
 </p>
 
 ---
