@@ -84,15 +84,6 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thasvithu&show_icons=true&theme=react&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thasvithu&theme=react&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasvithu&layout=compact&theme=react&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasvithu&theme=react" />
 </p>
 
