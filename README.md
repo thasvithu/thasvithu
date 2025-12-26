@@ -54,30 +54,37 @@ I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthu
 
 ## 🛠 Languages & Tools
 
-### 👨‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=light,dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql&theme=dark" height="65" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,opencv&theme=light,dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,pytorch,tensorflow,opencv&theme=dark" height="65" />
 </p>
 
-### ⚙️ Backend, APIs & Web
+### ⚙️ Backend, APIs & Web Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,html,css,tailwind&theme=light,dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,html,css,tailwind&theme=dark" height="65" />
 </p>
 
-### ☁️ Cloud, DevOps & MLOps
+### ☁️ Cloud, DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&theme=light,dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github&theme=dark" height="65" />
 </p>
 
-### 🗄 Databases & Tools
+### 🗄 Databases & UX Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&theme=light,dark" height="65" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,vscode,figma&theme=dark" height="65" />
 </p>
+
+### 🧪 Additional Tech (Fallback Badges)
+<p align="center">
+  <!-- Streamlit doesn’t have a dedicated icon in skill-icons, so use a badge -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B0B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
