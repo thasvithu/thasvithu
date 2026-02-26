@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Vimalathas Vithusan 👋</h1>
 
 <p align="center">
-  <strong>Data Science & AI Enthusiast</strong> · Python & Machine Learning · Backend Developer · AI Systems Builder
+  <strong>AI Engineer</strong> · ML Systems · Generative AI · RAG & LLM Applications · Backend for AI Systems
 </p>
 
 ---
