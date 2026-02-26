@@ -36,22 +36,14 @@
 
 ## 👨‍💻 About Me
 
-I am **Vimalathas Vithusan**, a **Data Science and Artificial Intelligence enthusiast from Sri Lanka**, focused on designing and building **scalable, production-ready AI systems** and **intelligent backend platforms**.
+I am **Vimalathas Vithusan**, an **AI Engineer from Sri Lanka**, focused on architecting and deploying **production-ready AI systems**, **ML pipelines**, and **LLM-powered applications** backed by scalable backend services.
 
-- 🔭 **Current Role:** AI-driven Backend Systems & Automation at **Sparta Capital**
-- 🌱 **Currently Learning:** Advanced Machine Learning, Deep Learning, NLP, RAG, AI Agents, MCP, Production-grade MLOps
-- 👯 **Open to Collaborate On:** AI products, ML pipelines, and intelligent backend systems
-- 🤝 **Interested In:** Scalable AI architectures, RAG-based solutions, and MLOps workflows
-- 💬 **Ask Me About:** Python, Machine Learning, Data Science, Backend Engineering, AI system design
+- 🔭 **Current Role:** Backend Developer (AI Systems) at **Sparta Capital**
+- 🚀 **Focus Areas:** ML Systems, RAG Architectures, AI Agents, Scalable FastAPI Services, CI/CD & Cloud Deployment
+- 🤝 **Open to Collaborate On:** AI products, ML infrastructure, and generative AI applications
+- 💬 **Ask Me About:** Python, ML pipelines, RAG systems, backend engineering, AI system design
 - 🌐 **Portfolio:** https://thasvithu.github.io
-- 📝 **Articles:** https://medium.com/@thasvithu
-- 📄 **Experience:** https://www.linkedin.com/in/thasvithu
+- 📄 **LinkedIn:** https://www.linkedin.com/in/thasvithu
 - 📫 **Contact:** thasvithu7@gmail.com
 
-> *“Learn continuously, build intelligently, and grow consistently.”*
-
----
-
-## 💡 Fun Fact
-
-I enjoy simplifying complex data problems and building AI systems that scale reliably in real-world environments.
+> *Building scalable AI systems that solve real-world problems.*
